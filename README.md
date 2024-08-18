@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi 👋, I'm Ossian
+
+#### Data Scientist based in Stockholm
+
+* 🛠️ Languages and tools:
+  * Python
+  * SQL
+  * GCP
+  * dbt
+  * Airflow
+  * Databricks
+  * Javascript/React
+* 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/ossianhempel)
+* 🏠 Visit my [website](www.ossianhempel.com)
+
 
 <!--
 **ossianhempel/ossianhempel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
