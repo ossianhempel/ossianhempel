@@ -2,7 +2,7 @@
 
 #### Data Scientist based in Stockholm
 
-* 🛠️ Languages and tools: Python, SQL, GCP, dbt, Airflow, Databricks, Javascript+React
+* 🛠️ Languages and tools: Python, SQL, Google Cloud Platform, dbt, Airflow/Prefect, Javascript+React
 * 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ossianhempel)
 * 🏠 Visit my [website](https://www.ossianhempel.com)
 
