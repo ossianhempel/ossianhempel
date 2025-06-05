@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Ossian
 
-#### Data Scientist based in Stockholm
+#### Data Scientist/Engineer based in Stockholm
 
-* 🛠️ Languages and tools: Python, SQL, Google Cloud Platform, dbt, Airflow/Prefect, Javascript+React
+* 🛠️ Main languages and tools: Python, SQL, dbt, Airflow/Prefect, Javascript/React
 * 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ossianhempel)
 * 🏠 Visit my [website](https://www.ossianhempel.com)
 
