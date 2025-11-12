@@ -2,7 +2,9 @@
 
 #### Data Scientist/Engineer based in Stockholm
 
-* 🛠️ Main languages and tools: Python, SQL, dbt, Airflow/Prefect, Javascript/React
+* Recently launched the smart workout logger GainsLog: www.gainslog.com 💪📈
+
+* 🛠️ Main languages and tools: Python, SQL, dbt, BigQuery
 * 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ossianhempel)
 * 🏠 Visit my [website](https://www.ossianhempel.com)
 
