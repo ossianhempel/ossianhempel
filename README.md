@@ -3,6 +3,7 @@
 #### Data Scientist/Engineer based in Stockholm
 
 * Recently launched the smart workout logger GainsLog: www.gainslog.com 💪📈
+  * For anyone who wants their hard work in the gym to finally show
 
 * 🛠️ Main languages and tools: Python, SQL, dbt, BigQuery
 * 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ossianhempel)
