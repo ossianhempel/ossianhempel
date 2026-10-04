@@ -7,8 +7,6 @@
 
 * 🤖 Open source I'm working on:
   * [ossian-stack](https://github.com/ossianhempel/ossian-stack): my personal agent skills, packaged as one plugin for Claude Code, Codex and Cursor
-  * [distribution-engineering](https://github.com/ossianhempel/distribution-engineering): agent skills that treat distribution (brand, content, channels) as an engineered system
-  * [company-brain](https://github.com/ossianhempel/company-brain): self-hostable, AI-native company knowledge system
   * [skill-library](https://github.com/ossianhempel/skill-library): self-hosted registry for company agent skills
   * [things3-cli](https://github.com/ossianhempel/things3-cli): a CLI for Things 3, written in Go (`brew install ossianhempel/tap/things3-cli`)
 
